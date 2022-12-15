@@ -9,7 +9,7 @@
 This GitHub repository contains code used for **Did droughts contribute to the political dynamics of Majapahit? A preliminary hydroclimatological analysis** created by [Sandy H. S. Herho](https://www.geol.umd.edu/sandyherho) at [Paleoclimate CoLaboratory](https://www.geol.umd.edu/facilities/sil/), University of Maryland College Park.
 
 ### License
-This code is released under the [GPL-3.0 License](https://github.com/sandyherho/majapahitDroughts23/blob/main/LICENCE).
+This code is released under the [GPL-3.0 License](https://github.com/sandyherho/majapahitDroughts23/blob/main/LICENSE.txt).
 
 ### Citation
 If you find this code useful in your study, please, consider citing my paper:
@@ -38,7 +38,7 @@ I run the code under the [Python](https://www.python.org/) by using the followin
 - [pyleoclim](https://pyleoclim-util.readthedocs.io/)
 - [xarray](https://docs.xarray.dev/en/)
 
-PHYDA was accessed via [NOAA/NCEI Paleoclimatology data library](https://www.ncei.noaa.gov/access/paleo-search/study/24230).
+Paleo Hydrodynamics Data Assimilation (PHYDA) [(Steiger et al, 2018)](https://www.nature.com/articles/sdata201886) was accessed via [NOAA/NCEI Paleoclimatology data library](https://www.ncei.noaa.gov/access/paleo-search/study/24230).
 
 ### Acknowledgements
 
