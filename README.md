@@ -30,7 +30,7 @@ If you find this code useful in your study, please, consider citing my paper:
 
 ### Requirements
 
-I run the code under the [Python](https://www.python.org/) by using the following libraries:
+I run the code under the [Python](https://www.python.org/) computing environment by using the following libraries:
 
 - [matplotlib](https://matplotlib.org/)
 - [numpy](https://numpy.org/)
