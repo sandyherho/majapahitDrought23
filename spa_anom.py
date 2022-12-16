@@ -1,5 +1,5 @@
 """
-spatial_anal.py
+spa_anom.py
 
 Calculate pdsi spatial
 anomaly during the Majapahit era
@@ -26,7 +26,7 @@ ref = (pdsi.mean(dim="time")).rename("PDSI anomaly")
 heyday = (pdsi.sel(time=slice(1350, 1389)).mean(dim="time") - ref).rename("PDSI anomaly")
 candra = (pdsi.sel(time=1478) - ref).rename("PDSI anomaly")
 famine = (pdsi.sel(time=1426) - ref).rename("PDSI anomaly")
-jayanegara = (pdsi.sel(time=slice(1309, 1319)).mean(dim="time") - ref).rename("PDSI anomaly")
+jayanegara = (pdsi.sel(time=slice(1309, 1328)).mean(dim="time") - ref).rename("PDSI anomaly")
 
 
 # plotting
