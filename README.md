@@ -15,7 +15,7 @@ This code is released under the [GPL-3.0 License](https://github.com/sandyherho/
 If you find this code useful in your study, please  consider citing our paper:
 
 
-`
+```
 @article{herho21,
          author={Herho, S. H. S., xxxx, xxxx},
          title={Did droughts contribute to the political dynamics of Majapahit? A preliminary hydroclimatological analysis},
@@ -26,6 +26,7 @@ If you find this code useful in your study, please  consider citing our paper:
          pages={x - x},
          doi={xx}
 }
+```
 `
 
 ### Requirements
