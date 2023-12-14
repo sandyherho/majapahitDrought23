@@ -17,14 +17,14 @@ If you find this code useful in your study, please  consider citing our paper:
 
 ```
 @article{herho21,
-         author={Herho, S. H. S., xxxx, xxxx},
+         author={Herho, S. H. S. and Herho, K. E. P., Susanto, R. D. },
          title={Did droughts contribute to the political dynamics of Majapahit? A preliminary hydroclimatological analysis},
-         journal={xxx},
-         year={202x},
-         volume={x},
-         number={x},
-         pages={x - x},
-         doi={xx}
+         journal={Geographica Pannonica},
+         year={2023},
+         volume={27},
+         number={3},
+         pages={199 - 210},
+         doi={https://doi.org/10.5937/gp27-44682}
 }
 ```
 `
